@@ -1,21 +1,17 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        long long N = n; // avoid overflow
-        if (N < 0) {
-            x = 1 / x;
-            N = -N;
+            long long N=n;
+            if(N==0) return 1;
+            if(N<0){
+                N=-N;
+                x=1/x;
+            }
+            if(N%2==0){
+                return myPow(x*x,N/2);
+            }
+            else{
+                return x*myPow(x*x,N/2);
+            }
         }
-        return power(x, N);
-    }
-
-private:
-    double power(double x, long long n) {
-        if (n == 0) return 1;
-        if (n % 2 == 0) {
-            return power(x * x, n / 2);
-        } else {
-            return x * power(x * x, n / 2);
-        }
-    }
 };
