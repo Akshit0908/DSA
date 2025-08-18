@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Akshit0908/DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Akshit0908/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Akshit0908/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Akshit0908/DSA/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Akshit0908/DSA/tree/master/0507-perfect-number) |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Akshit0908/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Akshit0908/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Akshit0908/DSA/tree/master/0326-power-of-three) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Akshit0908/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
