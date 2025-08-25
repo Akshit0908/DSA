@@ -25,9 +25,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Akshit0908/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit0908/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akshit0908/DSA/tree/master/0162-find-peak-element) |
+| [1646-kth-missing-positive-number](https://github.com/Akshit0908/DSA/tree/master/1646-kth-missing-positive-number) |
 ## Array
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit0908/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akshit0908/DSA/tree/master/0162-find-peak-element) |
+| [1646-kth-missing-positive-number](https://github.com/Akshit0908/DSA/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
