@@ -30,8 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akshit0908/DSA/tree/master/0001-two-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit0908/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akshit0908/DSA/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/Akshit0908/DSA/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Akshit0908/DSA/tree/master/1646-kth-missing-positive-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akshit0908/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
