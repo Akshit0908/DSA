@@ -51,8 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshit0908/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Akshit0908/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshit0908/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Akshit0908/DSA/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akshit0908/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Akshit0908/DSA/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Akshit0908/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
