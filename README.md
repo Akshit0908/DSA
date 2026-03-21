@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Akshit0908/DSA/tree/master/0231-power-of-two) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akshit0908/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Akshit0908/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Akshit0908/DSA/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Akshit0908/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akshit0908/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Akshit0908/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshit0908/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Akshit0908/DSA/tree/master/0141-linked-list-cycle) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Akshit0908/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Linked List
 |  |
 | ------- |
