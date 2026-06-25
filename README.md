@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Akshit0908/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Akshit0908/DSA/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Akshit0908/DSA/tree/master/0507-perfect-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshit0908/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit0908/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akshit0908/DSA/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/Akshit0908/DSA/tree/master/0792-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshit0908/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1646-kth-missing-positive-number](https://github.com/Akshit0908/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1720-decode-xored-array](https://github.com/Akshit0908/DSA/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akshit0908/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
