@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Akshit0908/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Akshit0908/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Akshit0908/DSA/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/Akshit0908/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Akshit0908/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Akshit0908/DSA/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Akshit0908/DSA/tree/master/0507-perfect-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Akshit0908/DSA/tree/master/0040-combination-sum-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit0908/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akshit0908/DSA/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/Akshit0908/DSA/tree/master/0204-count-primes) |
 | [0792-binary-search](https://github.com/Akshit0908/DSA/tree/master/0792-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshit0908/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1646-kth-missing-positive-number](https://github.com/Akshit0908/DSA/tree/master/1646-kth-missing-positive-number) |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Akshit0908/DSA/tree/master/0040-combination-sum-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akshit0908/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akshit0908/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
