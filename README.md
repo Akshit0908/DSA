@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Akshit0908/DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Akshit0908/DSA/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshit0908/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit0908/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshit0908/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1646-kth-missing-positive-number](https://github.com/Akshit0908/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1720-decode-xored-array](https://github.com/Akshit0908/DSA/tree/master/1720-decode-xored-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit0908/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Akshit0908/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Akshit0908/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Akshit0908/DSA/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akshit0908/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
