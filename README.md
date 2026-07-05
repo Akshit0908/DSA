@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akshit0908/DSA/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Akshit0908/DSA/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/Akshit0908/DSA/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshit0908/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akshit0908/DSA/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Akshit0908/DSA/tree/master/0204-count-primes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshit0908/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Akshit0908/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Akshit0908/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshit0908/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Akshit0908/DSA/tree/master/0392-is-subsequence) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Akshit0908/DSA/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Akshit0908/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
