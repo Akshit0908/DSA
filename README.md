@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akshit0908/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Akshit0908/DSA/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Akshit0908/DSA/tree/master/0242-valid-anagram) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Akshit0908/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Linked List
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akshit0908/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Akshit0908/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Akshit0908/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Akshit0908/DSA/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Akshit0908/DSA/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Akshit0908/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
