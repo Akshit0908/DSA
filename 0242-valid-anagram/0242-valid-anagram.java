@@ -1,0 +1,16 @@
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        int n = s.length();
+        int m = t.length();
+        int[] count = new int[26];
+        if(n!=m) return false;
+        for(int i=0;i<n;i++){
+            count[s.charAt(i) - 'a']++;
+            count[t.charAt(i) - 'a']--;
+        }
+        for(int c : count){
+            if(c != 0) return false;
+        }
+        return true;
+    }
+}
